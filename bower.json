@@ -3,10 +3,8 @@
   "dependencies": {
     "handlebars": "4.0.5",
     "jquery": "3.1.1",
-    "blueimp-file-upload": "9.14.2"
-  },
-  "resolutions": {
-    "ember": "canary"
+    "blueimp-file-upload": "9.14.2",
+    "ember-data": "2.10.0"
   }
 }
 
