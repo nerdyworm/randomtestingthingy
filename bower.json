@@ -2,7 +2,8 @@
   "name": "flowfeeds",
   "dependencies": {
     "handlebars": "~2.0.0",
-    "jquery": "^1.11.1"
+    "jquery": "^1.11.1",
+    "blueimp-file-upload": "~9.9.3"
   },
   "resolutions": {
     "ember": "canary"
