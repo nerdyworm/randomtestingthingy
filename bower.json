@@ -1,7 +1,8 @@
 {
   "name": "demo",
   "dependencies": {
-    "ember": "2.10.1"
+    "ember": "2.10.1",
+    "jquery": "3.0.0"
   }
 }
 
